@@ -1,4 +1,4 @@
-// Generated from D:/Projects/jython-compiler/grammar\jython.g4 by ANTLR 4.10.1
+package ir.fum.compiler.jython.gen;// Generated from D:/Projects/jython-compiler/grammar\jython.g4 by ANTLR 4.10.1
 import org.antlr.v4.runtime.tree.AbstractParseTreeVisitor;
 
 /**

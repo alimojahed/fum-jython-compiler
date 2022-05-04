@@ -5,4 +5,7 @@ package ir.fum.compiler.jython;
  * @project jython-compiler
  **/
 public class JythonCompilerApplication {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
